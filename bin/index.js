@@ -20,5 +20,7 @@ if (argv.move === 'rock') {
 
 } else {
 
-    console.log("Your move is invalid.")
+    console.log("Your move is invalid, or no move provided.")
 }
+
+console.log("Computer logic not yet written.")
