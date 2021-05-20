@@ -1,0 +1,22 @@
+{
+  "name": "roshambo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrazaedier/Roshambo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrazaedier/Roshambo/issues"
+  },
+  "homepage": "https://github.com/barrazaedier/Roshambo#readme",
+  "bin": {
+    "roshambo": "./bin/index.js"
+  }
+}
